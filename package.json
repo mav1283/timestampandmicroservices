@@ -1,0 +1,23 @@
+{
+  "name": "timestampandmicroservices",
+  "version": "1.0.0",
+  "description": "An FCC backend challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mav1283/timestampandmicroservices.git"
+  },
+  "author": "Dani Paolo S. Dullano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mav1283/timestampandmicroservices/issues"
+  },
+  "homepage": "https://github.com/mav1283/timestampandmicroservices#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0"
+  }
+}
